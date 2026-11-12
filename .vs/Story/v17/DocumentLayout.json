@@ -1,0 +1,2153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Story\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fifthlevel\\videocontrolldance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fifthlevel\\videocontrolldance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\shopautointerract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\shopautointerract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\froggyconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\froggyconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\partpictureinterractfroggy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\partpictureinterractfroggy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|c:\\users\\user\\story\\assets\\scripts\\spawninformationobjectbeforestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawninformationobjectbeforestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\spawninformationobjectclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\spawninformationobjectclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\spawncodeinformationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\spawncodeinformationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\npcwithpictureinterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\npcwithpictureinterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\firstlevel\\thoughtshowtakeguardrabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\firstlevel\\thoughtshowtakeguardrabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\firstlevel\\thoughtsfindrabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\firstlevel\\thoughtsfindrabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\player\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\codechestclosedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\codechestclosedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\codechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\codechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\startlevel\\thoughtsplayerviewboxlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\startlevel\\thoughtsplayerviewboxlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\dialogfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\dialogfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\dialogfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\dialogfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\startlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\loadlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fifthlevel\\fifthlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fifthlevel\\fifthlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\escmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\buttons\\buttonclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\buttonclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\buttons\\buttonquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\buttonquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\buttons\\buttonexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\buttonexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\buttons\\buttone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\buttone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\buttons\\anylevelbuttondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\anylevelbuttondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\sixthlevel\\questionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sixthlevel\\questionsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\sixthlevel\\questionslevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sixthlevel\\questionslevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\startlevel\\thoughtsreturnedthislevelzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\startlevel\\thoughtsreturnedthislevelzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\startlevel\\thoughtsplayerenterzeroslevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\startlevel\\thoughtsplayerenterzeroslevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\gamefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\levelzeromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelzeromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\updatemusicbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\updatemusicbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\fourthlevel\\level4texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\fourthlevel\\level4texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\fifthlevel\\level5texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\fifthlevel\\level5texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\secondlevel\\level2texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\secondlevel\\level2texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\thirdlevel\\level3texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\thirdlevel\\level3texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\firstlevel\\level1texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\firstlevel\\level1texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\secondlevel\\doorlabyrynth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\secondlevel\\doorlabyrynth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\sixthlevel\\wisedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sixthlevel\\wisedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\figures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\figures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\persistentmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\gamefourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\gamefourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\mainmenu\\playbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\playbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\diabledshadowobjectplayerarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\diabledshadowobjectplayerarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\gosecondscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gosecondscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fifthlevel\\startplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fifthlevel\\startplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\startlevel\\level0texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\startlevel\\level0texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\disableobjectsinlevelzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\disableobjectsinlevelzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\animationtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\animationtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\animationthoughttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\animationthoughttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\greenarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\greenarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\playerthoughts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\playerthoughts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\sixthlevel\\level6texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\sixthlevel\\level6texts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\animationdialogtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\animationdialogtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\figureinterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\figureinterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\interfaces\\ibuttonspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\ibuttonspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\guard\\guardconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guard\\guardconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fifthlevel\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fifthlevel\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\fifthlevel\\dialogdancelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\fifthlevel\\dialogdancelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\camera\\cinemachinepixelperfectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cinemachinepixelperfectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\buttons\\buttonvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\buttonvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\fifthlevel\\dialogstartfifthlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\fifthlevel\\dialogstartfifthlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fifthlevel\\doordance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fifthlevel\\doordance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\doorchess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\doorchess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\interfaces\\itext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\itext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\buttons\\buttonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\buttonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fifthlevel\\numbersafterstartdancelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fifthlevel\\numbersafterstartdancelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\overlayobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\overlayobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\moveobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\interfaces\\ibuttone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\ibuttone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\interfaces\\iinterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\iinterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\scriptableobjects\\namesfiguresinlevelso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\namesfiguresinlevelso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\hirefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\hirefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\fifthlevel\\thoughtsaboutfindfigureneed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\fifthlevel\\thoughtsaboutfindfigureneed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\TextTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Text\\TextTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\putfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\putfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\buttons\\buttontake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\buttontake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\pawninventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\pawninventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\carrot\\carrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carrot\\carrot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\objectstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\objectstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\fourthlevel\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fourthlevel\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\secondlevel\\informationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\secondlevel\\informationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\thirdlevel\\thoughtsbeforereadinformationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\thirdlevel\\thoughtsbeforereadinformationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\mainmenu\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\secondlevel\\textinformationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\secondlevel\\textinformationobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\doorgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\doorgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\chestopeninterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\chestopeninterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\partpictureinterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\partpictureinterract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\partpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\partpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\opendoorandintower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opendoorandintower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\secondlevel\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\secondlevel\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\thirdlevel\\thoughtsbeforespawnkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\thirdlevel\\thoughtsbeforespawnkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\thirdlevel\\thoughtsbeforeviewobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\thirdlevel\\thoughtsbeforeviewobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\thirdlevel\\thoughtsbeforetalkwithfroggy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\thirdlevel\\thoughtsbeforetalkwithfroggy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\playerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\spawnobjectsbeforeopenchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\spawnobjectsbeforeopenchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\rabbit\\takerabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rabbit\\takerabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\scriptableobjects\\partpictureso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\partpictureso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\coingallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\coingallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\buttonupdowncodechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\buttonupdowncodechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\scriptableobjects\\coingalleryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\coingalleryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\scriptableobjects\\pictureso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\pictureso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\scriptableobjects\\rabbitso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\rabbitso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\rabbit\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rabbit\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\interfaces\\iscalableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\iscalableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\scriptableobjects\\spritesgalleryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\spritesgalleryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\spriteobjectcodechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\spriteobjectcodechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\thirdlevel\\spritesgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdlevel\\spritesgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\firstlevel\\thoughtsbeforetalkguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\firstlevel\\thoughtsbeforetalkguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\firstlevel\\thoughtsbegin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\firstlevel\\thoughtsbegin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\secondlevel\\thoughtsfindkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\secondlevel\\thoughtsfindkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\doorintowerlevel\\doortower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorintowerlevel\\doortower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\scriptableobjects\\keyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\keyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\scriptableobjects\\carrotso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\carrotso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\interfaces\\iconditionsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\iconditionsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\text\\dialogenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\text\\dialogenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Story\\Assets\\Scripts\\ButtonReset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ButtonReset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\backpack\\backpackopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backpack\\backpackopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|C:\\Users\\User\\Story\\assets\\scripts\\backpack\\inventoryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A42E9-924D-F708-4EAC-BAF6EA825BF5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backpack\\inventoryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnInformationObjectBeforeStart.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\SpawnInformationObjectBeforeStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnInformationObjectBeforeStart.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\SpawnInformationObjectBeforeStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnInformationObjectBeforeStart.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA+wBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T09:05:16.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DialogFunction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\DialogFunction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\DialogFunction.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\DialogFunction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\DialogFunction.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIA7wD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:59:49.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\Picture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\Picture.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\Picture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\Picture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:45:05.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartPictureInterractFroggy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\PartPictureInterractFroggy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\PartPictureInterractFroggy.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\PartPictureInterractFroggy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\PartPictureInterractFroggy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:20:30.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FroggyConditions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\FroggyConditions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\FroggyConditions.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\FroggyConditions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\FroggyConditions.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T10:11:49.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopAutoInterract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\ShopAutoInterract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\ShopAutoInterract.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\ShopAutoInterract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\ShopAutoInterract.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwB4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T16:02:59.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoControllDance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\VideoControllDance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FIfthLevel\\VideoControllDance.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\VideoControllDance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FIfthLevel\\VideoControllDance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:41:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpawnCodeInformationObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpawnCodeInformationObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\SpawnCodeInformationObject.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpawnCodeInformationObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\SpawnCodeInformationObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:13:55.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawnInformationObjectClose.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpawnInformationObjectClose.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\SpawnInformationObjectClose.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpawnInformationObjectClose.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\SpawnInformationObjectClose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:31:49.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NPCWithPictureInterract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\NPCWithPictureInterract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\NPCWithPictureInterract.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\NPCWithPictureInterract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\NPCWithPictureInterract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:52:35.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StartLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\StartLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\StartLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartLevel.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAApwEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:13:03.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DialogField.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\DialogField.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\DialogField.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\DialogField.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\DialogField.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAApwHQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:31:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThoughtsHowTakeGuardRabbit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\ThoughtsHowTakeGuardRabbit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FirstLevel\\ThoughtsHowTakeGuardRabbit.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\ThoughtsHowTakeGuardRabbit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FirstLevel\\ThoughtsHowTakeGuardRabbit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:25:33.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerVisual.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Player\\PlayerVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerVisual.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Player\\PlayerVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerVisual.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwGUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T20:34:37.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CodeChestClosedButton.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\CodeChestClosedButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\CodeChestClosedButton.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\CodeChestClosedButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\CodeChestClosedButton.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:40:02.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CodeChest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\CodeChest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\CodeChest.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\CodeChest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\CodeChest.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAApwDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T10:52:22.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThoughtsPlayerViewBoxLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\StartLevel\\ThoughtsPlayerViewBoxLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\StartLevel\\ThoughtsPlayerViewBoxLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\StartLevel\\ThoughtsPlayerViewBoxLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\StartLevel\\ThoughtsPlayerViewBoxLevel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T22:57:14.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThoughtsFindRabbit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\ThoughtsFindRabbit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FirstLevel\\ThoughtsFindRabbit.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\ThoughtsFindRabbit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FirstLevel\\ThoughtsFindRabbit.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAlwBEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:59:05.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:14:36.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoadLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\LoadLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\LoadLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadLevel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T14:30:17.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FIfthLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\FIfthLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FIfthLevel\\FIfthLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\FIfthLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FIfthLevel\\FIfthLevel.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAApwEcBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T20:13:19.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ESCMenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ESCMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ESCMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ESCMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ESCMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T13:13:05.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ButtonClose.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonClose.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ButtonClose.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonClose.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ButtonClose.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T13:09:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ButtonQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonQuestion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ButtonQuestion.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonQuestion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ButtonQuestion.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:46:46.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ButtonExit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonExit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ButtonExit.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonExit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ButtonExit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:46:34.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "BackpackOpen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Backpack\\BackpackOpen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Backpack\\BackpackOpen.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Backpack\\BackpackOpen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Backpack\\BackpackOpen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:27:58.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ButtonE.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonE.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ButtonE.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonE.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ButtonE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:51:09.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuestionsGame.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\SixthLevel\\QuestionsGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SixthLevel\\QuestionsGame.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\SixthLevel\\QuestionsGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SixthLevel\\QuestionsGame.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAgwL0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:14:56.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QuestionsLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\SixthLevel\\QuestionsLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SixthLevel\\QuestionsLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\SixthLevel\\QuestionsLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SixthLevel\\QuestionsLevel.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwF4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:21:48.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ThoughtsReturnedThisLevelZero.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\StartLevel\\ThoughtsReturnedThisLevelZero.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\StartLevel\\ThoughtsReturnedThisLevelZero.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\StartLevel\\ThoughtsReturnedThisLevelZero.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\StartLevel\\ThoughtsReturnedThisLevelZero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:17:01.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "InventoryObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Backpack\\InventoryObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Backpack\\InventoryObject.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Backpack\\InventoryObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Backpack\\InventoryObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:58:44.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnyLevelButtonDialog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\AnyLevelButtonDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\AnyLevelButtonDialog.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\AnyLevelButtonDialog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\AnyLevelButtonDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:25:15.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ThoughtsPlayerEnterZerosLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\StartLevel\\ThoughtsPlayerEnterZerosLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\StartLevel\\ThoughtsPlayerEnterZerosLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\StartLevel\\ThoughtsPlayerEnterZerosLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\StartLevel\\ThoughtsPlayerEnterZerosLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T22:51:20.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GameFinish.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\GameFinish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameFinish.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\GameFinish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameFinish.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:10:55.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LevelZeroManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\LevelZeroManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelZeroManager.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\LevelZeroManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelZeroManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T19:13:01.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateMusicBackground.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\UpdateMusicBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UpdateMusicBackground.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\UpdateMusicBackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UpdateMusicBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T09:39:47.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Level4Texts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FourthLevel\\Level4Texts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FourthLevel\\Level4Texts.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FourthLevel\\Level4Texts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FourthLevel\\Level4Texts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T19:25:54.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Level5Texts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FifthLevel\\Level5Texts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FifthLevel\\Level5Texts.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FifthLevel\\Level5Texts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FifthLevel\\Level5Texts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:15:56.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Level2Texts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\SecondLevel\\Level2Texts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\SecondLevel\\Level2Texts.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\SecondLevel\\Level2Texts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\SecondLevel\\Level2Texts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:13:17.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Level3Texts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\Level3Texts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\ThirdLevel\\Level3Texts.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\Level3Texts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\ThirdLevel\\Level3Texts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:42:11.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Level1Texts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\Level1Texts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FirstLevel\\Level1Texts.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\Level1Texts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FirstLevel\\Level1Texts.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T13:16:13.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DoorLabyrynth.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\SecondLevel\\DoorLabyrynth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SecondLevel\\DoorLabyrynth.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\SecondLevel\\DoorLabyrynth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SecondLevel\\DoorLabyrynth.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:00:35.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WiseDialog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\SixthLevel\\WiseDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SixthLevel\\WiseDialog.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\SixthLevel\\WiseDialog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SixthLevel\\WiseDialog.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T09:01:48.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Figure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\Figure.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Figure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\Figure.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAQwPkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:24:06.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Figures.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Figures.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\Figures.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Figures.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\Figures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T08:43:42.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Horse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Horse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\Horse.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Horse.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\Horse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:20:24.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwJoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:04:15.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GameFourth.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\GameFourth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\GameFourth.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\GameFourth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\GameFourth.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAiwLMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:45:03.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PersistentMusic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\PersistentMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentMusic.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\PersistentMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentMusic.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:33:35.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GoSecondScene.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\GoSecondScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoSecondScene.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\GoSecondScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoSecondScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T14:18:18.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StartPlace.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\StartPlace.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FIfthLevel\\StartPlace.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\StartPlace.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FIfthLevel\\StartPlace.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T14:31:55.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PlayButton.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\MainMenu\\PlayButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\PlayButton.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\MainMenu\\PlayButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\PlayButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:14:38.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AnimationText.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\AnimationText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\AnimationText.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\AnimationText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\AnimationText.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:09:28.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DiabledShadowObjectPlayerArea.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\DiabledShadowObjectPlayerArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiabledShadowObjectPlayerArea.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\DiabledShadowObjectPlayerArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiabledShadowObjectPlayerArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:45:33.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AnimationThoughtText.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\AnimationThoughtText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\AnimationThoughtText.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\AnimationThoughtText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\AnimationThoughtText.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA6wA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:56:34.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Level0Texts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\StartLevel\\Level0Texts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\StartLevel\\Level0Texts.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\StartLevel\\Level0Texts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\StartLevel\\Level0Texts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T22:19:01.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DisableObjectsInLevelZero.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\DisableObjectsInLevelZero.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DisableObjectsInLevelZero.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\DisableObjectsInLevelZero.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DisableObjectsInLevelZero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T18:04:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GreenArea.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\GreenArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GreenArea.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\GreenArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GreenArea.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T05:31:11.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Minimap.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Minimap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Minimap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:44:37.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Level6Texts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\SixthLevel\\Level6Texts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\SixthLevel\\Level6Texts.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\SixthLevel\\Level6Texts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\SixthLevel\\Level6Texts.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwBIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T08:36:55.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PlayerThoughts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\PlayerThoughts.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\PlayerThoughts.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\PlayerThoughts.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\PlayerThoughts.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:14:09.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Portal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Portal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portal.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Portal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portal.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:38:47.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AnimationDialogText.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\AnimationDialogText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\AnimationDialogText.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\AnimationDialogText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\AnimationDialogText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T07:25:05.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FigureInterract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\FigureInterract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\FigureInterract.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\FigureInterract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\FigureInterract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:01:51.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GuardConditions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Guard\\GuardConditions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guard\\GuardConditions.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Guard\\GuardConditions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guard\\GuardConditions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:09:43.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IButtonSpace.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IButtonSpace.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IButtonSpace.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IButtonSpace.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IButtonSpace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T10:42:32.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DialogDanceLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FifthLevel\\DialogDanceLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FifthLevel\\DialogDanceLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FifthLevel\\DialogDanceLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FifthLevel\\DialogDanceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T22:58:16.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\Tile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FIfthLevel\\Tile.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\Tile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FIfthLevel\\Tile.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwC8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T20:16:22.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ButtonVision.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonVision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ButtonVision.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonVision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ButtonVision.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:29:49.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CinemachinePixelPerfectController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Camera\\CinemachinePixelPerfectController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CinemachinePixelPerfectController.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Camera\\CinemachinePixelPerfectController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CinemachinePixelPerfectController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T08:13:49.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DialogStartFifthLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FifthLevel\\DialogStartFifthLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FifthLevel\\DialogStartFifthLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FifthLevel\\DialogStartFifthLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FifthLevel\\DialogStartFifthLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:17:27.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IText.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IText.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:38:46.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DoorDance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\DoorDance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FIfthLevel\\DoorDance.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\DoorDance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FIfthLevel\\DoorDance.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:46:00.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DoorChess.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\DoorChess.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\DoorChess.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\DoorChess.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\DoorChess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:17:13.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ButtonView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ButtonView.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ButtonView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:31:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NumbersAfterStartDanceLevel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\NumbersAfterStartDanceLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FIfthLevel\\NumbersAfterStartDanceLevel.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FIfthLevel\\NumbersAfterStartDanceLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FIfthLevel\\NumbersAfterStartDanceLevel.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T14:49:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "OverlayObjects.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\OverlayObjects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OverlayObjects.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\OverlayObjects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OverlayObjects.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T14:04:54.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MoveObjects.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\MoveObjects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveObjects.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\MoveObjects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:17:19.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Box.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T05:54:08.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IButtonE.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IButtonE.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IButtonE.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IButtonE.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IButtonE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:34:54.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IInterract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IInterract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IInterract.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IInterract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IInterract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:39:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "HireFigure.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\HireFigure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\HireFigure.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\HireFigure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\HireFigure.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:50:36.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "TextTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\TextTemplate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\TextTemplate.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\TextTemplate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\TextTemplate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:10:49.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ThoughtsAboutFindFigureNeed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FifthLevel\\ThoughtsAboutFindFigureNeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FifthLevel\\ThoughtsAboutFindFigureNeed.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FifthLevel\\ThoughtsAboutFindFigureNeed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FifthLevel\\ThoughtsAboutFindFigureNeed.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:09:05.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "NamesFiguresInLevelSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\NamesFiguresInLevelSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\NamesFiguresInLevelSO.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\NamesFiguresInLevelSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\NamesFiguresInLevelSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:14:04.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PutFigure.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\PutFigure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\PutFigure.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\PutFigure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\PutFigure.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:43:56.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ButtonTake.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonTake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ButtonTake.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Buttons\\ButtonTake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ButtonTake.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:25:20.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "ThoughtsBeforeReadInformation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformation.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:39:06.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "ButtonReset.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ButtonReset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonReset.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ButtonReset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonReset.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T17:20:36.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Officer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Officer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\Officer.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Officer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\Officer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:52:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Carrot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Carrot\\Carrot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Carrot\\Carrot.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Carrot\\Carrot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Carrot\\Carrot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:55:04.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "PawnInventory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\PawnInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\PawnInventory.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\PawnInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\PawnInventory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:24:25.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Pawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\Pawn.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Pawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\Pawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:56:33.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ObjectStep.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\ObjectStep.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\ObjectStep.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\ObjectStep.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\ObjectStep.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T09:10:46.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Rook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\Rook.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Rook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\Rook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:48:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\King.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\King.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\King.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\King.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:44:13.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Queen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FourthLevel\\Queen.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\FourthLevel\\Queen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FourthLevel\\Queen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:16:01.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "InformationObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\SecondLevel\\InformationObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SecondLevel\\InformationObject.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\SecondLevel\\InformationObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SecondLevel\\InformationObject.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:30:05.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ThoughtsBeforeReadInformationObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformationObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformationObject.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformationObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeReadInformationObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:47:20.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\Chest.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\Chest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\Chest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:34:40.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\MainMenu\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\Exit.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\MainMenu\\Exit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\Exit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:23:38.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ChestOpenInterract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\ChestOpenInterract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\ChestOpenInterract.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\ChestOpenInterract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\ChestOpenInterract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:09:36.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "TextInformationObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\SecondLevel\\TextInformationObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SecondLevel\\TextInformationObject.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\SecondLevel\\TextInformationObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SecondLevel\\TextInformationObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:09:48.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "PartPictureInterract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\PartPictureInterract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\PartPictureInterract.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\PartPictureInterract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\PartPictureInterract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:41:07.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "DoorGallery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\DoorGallery.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\DoorGallery.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\DoorGallery.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\DoorGallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T09:54:19.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "PartPicture.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\PartPicture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\PartPicture.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\PartPicture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\PartPicture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:02:31.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "OpenDoorAndInTower.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\OpenDoorAndInTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpenDoorAndInTower.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\OpenDoorAndInTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpenDoorAndInTower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:38:59.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\SecondLevel\\Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SecondLevel\\Key.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\SecondLevel\\Key.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SecondLevel\\Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:53:12.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ThoughtsBeforeSpawnKey.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeSpawnKey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeSpawnKey.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeSpawnKey.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeSpawnKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:05:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "ThoughtsBeforeViewObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeViewObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeViewObject.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeViewObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeViewObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:47:51.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ThoughtsBeforeTalkWithFroggy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeTalkWithFroggy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeTalkWithFroggy.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeTalkWithFroggy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\ThirdLevel\\ThoughtsBeforeTalkWithFroggy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:55:20.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "PlayerObject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\PlayerObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerObject.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\PlayerObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerObject.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T13:04:18.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "SpawnObjectsbeforeOpenChest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpawnObjectsbeforeOpenChest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\SpawnObjectsbeforeOpenChest.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpawnObjectsbeforeOpenChest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\SpawnObjectsbeforeOpenChest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:23:34.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "TakeRabbit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Rabbit\\TakeRabbit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rabbit\\TakeRabbit.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Rabbit\\TakeRabbit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rabbit\\TakeRabbit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:51:10.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "CoinGallery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\CoinGallery.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\CoinGallery.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\CoinGallery.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\CoinGallery.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:16:43.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "PartPictureSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\PartPictureSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\PartPictureSO.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\PartPictureSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\PartPictureSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:09:58.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "ButtonUpDownCodeChest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\ButtonUpDownCodeChest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\ButtonUpDownCodeChest.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\ButtonUpDownCodeChest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\ButtonUpDownCodeChest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:07:25.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "IScalableItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IScalableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IScalableItem.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IScalableItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IScalableItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:20:46.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "CoinGallerySO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\CoinGallerySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\CoinGallerySO.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\CoinGallerySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\CoinGallerySO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:22:57.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "PictureSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\PictureSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\PictureSO.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\PictureSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\PictureSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:59:58.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "RabbitSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\RabbitSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\RabbitSO.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\RabbitSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\RabbitSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T08:40:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Rabbit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Rabbit\\Rabbit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rabbit\\Rabbit.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Rabbit\\Rabbit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rabbit\\Rabbit.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:19:11.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "SpritesGallerySO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\SpritesGallerySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\SpritesGallerySO.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\SpritesGallerySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\SpritesGallerySO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T11:02:06.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "SpriteObjectCodeChest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpriteObjectCodeChest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\SpriteObjectCodeChest.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpriteObjectCodeChest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\SpriteObjectCodeChest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:33:37.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "SpritesGallery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpritesGallery.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdLevel\\SpritesGallery.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ThirdLevel\\SpritesGallery.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdLevel\\SpritesGallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T11:13:18.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "ThoughtsBeforeTalkGuard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\ThoughtsBeforeTalkGuard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FirstLevel\\ThoughtsBeforeTalkGuard.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\ThoughtsBeforeTalkGuard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FirstLevel\\ThoughtsBeforeTalkGuard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:39:39.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "ThoughtsFindKey.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\SecondLevel\\ThoughtsFindKey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\SecondLevel\\ThoughtsFindKey.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\SecondLevel\\ThoughtsFindKey.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\SecondLevel\\ThoughtsFindKey.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:31:45.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "ThoughtsBegin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\ThoughtsBegin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\FirstLevel\\ThoughtsBegin.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\FirstLevel\\ThoughtsBegin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\FirstLevel\\ThoughtsBegin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:23:43.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "DoorTower.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\DoorInTowerLevel\\DoorTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorInTowerLevel\\DoorTower.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\DoorInTowerLevel\\DoorTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorInTowerLevel\\DoorTower.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:33:15.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "KeySO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\KeySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\KeySO.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\KeySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\KeySO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:48:30.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "CarrotSO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\CarrotSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\CarrotSO.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\ScriptableObjects\\CarrotSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\CarrotSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T09:23:16.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "IConditionsDialog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IConditionsDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IConditionsDialog.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Interfaces\\IConditionsDialog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IConditionsDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:06:57.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "DialogEnum.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\DialogEnum.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Text\\DialogEnum.cs",
+              "ToolTip": "C:\\Users\\User\\Story\\Assets\\Scripts\\Text\\DialogEnum.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Text\\DialogEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:32:39.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
